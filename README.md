@@ -32,6 +32,4 @@ Tools        →  Git  Heroku  Android Studio  Xcode  Ollama
 
 - 📧 william.martinez10@upr.edu
 
----
 
-* Open to internships & collaborations*
