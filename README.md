@@ -253,34 +253,29 @@ Sudoku solver that uses recursive backtracking to explore possible values and au
 
 Open to connecting, collaborating, and talking about software.
 
-<table>
-<tr>
-<td width="50%" align="center">
-
-<a href="mailto:william.martinez10@upr.edu">
-  <img
-    src="https://img.shields.io/badge/📧_william.martinez10%40upr.edu-111827?style=for-the-badge&labelColor=111827"
-    alt="william.martinez10@upr.edu"
-    height="70"
-  />
-</a>
-
-</td>
-<td width="80%" align="center">
-
-<a href="https://github.com/williammartinez10">
-  <img
-    src="https://img.shields.io/badge/GitHub_%7C_%40williammartinez10-111827?style=for-the-badge&logo=github&logoColor=white"
-    alt="@williammartinez10"
-    height="70"
-  />
-</a>
-
-</td>
-</tr>
-</table>
-
 <br><br>
 
+<a href="mailto:williammartinez09@yahoo.com">
+  <img
+    src="https://img.shields.io/badge/Email-williammartinez09%40yahoo.com-111827?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=555555"
+    alt="Email William"
+  />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/williammartinezpr/">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-William_A._Martinez_Martinez-111827?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=555555"
+    alt="William's LinkedIn"
+  />
+</a>
+&nbsp;
+<a href="https://github.com/williammartinez10">
+  <img
+    src="https://img.shields.io/badge/GitHub-%40williammartinez10-111827?style=for-the-badge&logo=github&logoColor=white&labelColor=555555"
+    alt="William's GitHub"
+  />
+</a>
+
+<br><br>
 
 </div>
